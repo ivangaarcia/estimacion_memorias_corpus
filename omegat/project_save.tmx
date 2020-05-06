@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The buses are free leaving and entering the city within the Free Transit Zone - it runs from Newcastle Street down and from the end of Kings Park when going towards Subiaco.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ivang" changedate="20200506T154229Z" creationid="ivang" creationdate="20200506T154229Z">
+        <seg>El viaje es gratuito dentro de la Zona de Transito Libre (desde la calle Newcastle hacia el sur y desde el final de Kings Park hacia Subiaco).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The frequency of public transport decreases remarkably on weekends, and on weekdays in the evenings after 7 or 8pm.</seg>
       </tuv>
       <tuv lang="ES" changeid="ivang" changedate="20200506T153404Z" creationid="ivang" creationdate="20200506T153404Z">
@@ -104,16 +112,16 @@
       <tuv lang="EN">
         <seg>They are a great way of getting from one place to another.</seg>
       </tuv>
-      <tuv lang="ES" changeid="ivang" changedate="20200506T154128Z" creationid="ivang" creationdate="20200506T154128Z">
-        <seg>Son una gran alternativa para ir de un lugar a otro..</seg>
+      <tuv lang="ES" changeid="ivang" changedate="20200506T154132Z" creationid="ivang" creationdate="20200506T154128Z">
+        <seg>Son una gran alternativa para ir de un lugar a otro.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>This does not require a SmartRider, just get on.</seg>
       </tuv>
-      <tuv lang="ES" changeid="ivang" changedate="20200506T153920Z" creationid="ivang" creationdate="20200506T153920Z">
-        <seg>No se necesita un</seg>
+      <tuv lang="ES" changeid="ivang" changedate="20200506T154242Z" creationid="ivang" creationdate="20200506T153920Z">
+        <seg>No se necesita un SmartRider, solo tienes que subirte.</seg>
       </tuv>
     </tu>
     <tu>
