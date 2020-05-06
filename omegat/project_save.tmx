@@ -28,6 +28,22 @@
         <seg>Editar sección: Cómo desplazarse</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Information about timetables, fares, disruptions or service alterations can be found on their website, by calling 13 62 13 or at 'Transperth InfoCentres' located in at the Perth train station and a couple of branches in the &lt;a1&gt;City&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ivang" changedate="20200506T153324Z" creationid="ivang" creationdate="20200506T153324Z">
+        <seg>La información sobre horarios, tarifas, modificaciones o alternaciones del servicio se encuentra disponible en su página web, en el teléfono 13 62 13 y en el servicio de atención al cliente físico "Transperth InfoCentres", situado en la estación de tren de Perth y en otros puntos estratégicos de la&lt;a1&gt;ciudad&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Perth metropolitan area has a fairly reliable and inexpensive public transport system operated by Transperth &lt;a0&gt;[22]&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ivang" changedate="20200506T153029Z" creationid="ivang" creationdate="20200506T153029Z">
+        <seg>El área metropolitana de Perth cuenta con un sistema de transporte público responsable y de bajo precio, operado por Transperth.&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
