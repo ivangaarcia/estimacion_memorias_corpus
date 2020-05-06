@@ -4,6 +4,30 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;Get around&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;[&lt;/s2&gt;&lt;a3&gt;edit&lt;/a3&gt;&lt;s4&gt;]&lt;/s4&gt;&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ivang" changedate="20200506T152852Z" creationid="ivang" creationdate="20200506T152751Z">
+        <seg>Cómo desplazarse [editar]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit section: By public transport</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ivang" changedate="20200506T152922Z" creationid="ivang" creationdate="20200506T152846Z">
+        <seg>Editar sección: transporte público</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit section: Get around</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ivang" changedate="20200506T152727Z" creationid="ivang" creationdate="20200506T152727Z">
+        <seg>Editar sección: Cómo desplazarse</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
