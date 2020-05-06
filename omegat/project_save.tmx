@@ -94,10 +94,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The large air-conditioned buses of different colours with the distinctive cat logo run about every 10 min on various routes around major facilities and attractions.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ivang" changedate="20200506T154116Z" creationid="ivang" creationdate="20200506T154116Z">
+        <seg>Los grandes autobuses de diferentes colores con el distintivo logotipo de un gato cuentan con aire acondicionado. Circulan cada diez minutos por varias rutas alrededor de los principales servicios y lugares de interés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They are a great way of getting from one place to another.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ivang" changedate="20200506T154128Z" creationid="ivang" creationdate="20200506T154128Z">
+        <seg>Son una gran alternativa para ir de un lugar a otro..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This does not require a SmartRider, just get on.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ivang" changedate="20200506T153920Z" creationid="ivang" creationdate="20200506T153920Z">
+        <seg>No se necesita un</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Transperth also operates a &lt;i0&gt;free CAT bus service&lt;/i0&gt; in Perth CBD, &lt;a1&gt;Fremantle&lt;/a1&gt; and Joondalup.</seg>
       </tuv>
-      <tuv lang="ES" changeid="ivang" changedate="20200506T153854Z" creationid="ivang" creationdate="20200506T153854Z">
-        <seg>Transperth también se encarga delTransperth also operates a &lt;i0&gt;servicio gratuito CAT&lt;/i0&gt; en el distrito financiero de Perth , &lt;a1&gt;Fremantle&lt;/a1&gt; y en Joondalup.</seg>
+      <tuv lang="ES" changeid="ivang" changedate="20200506T153902Z" creationid="ivang" creationdate="20200506T153854Z">
+        <seg>Transperth también se encarga delTransperth also operates a &lt;i0&gt;servicio gratuito CAT&lt;/i0&gt; en el distrito financiero de Perth, &lt;a1&gt;Fremantle&lt;/a1&gt; y en Joondalup.</seg>
       </tuv>
     </tu>
     <tu>
