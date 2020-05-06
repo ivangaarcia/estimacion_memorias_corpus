@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s0&gt;Bus&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;[&lt;/s2&gt;&lt;a3&gt;edit&lt;/a3&gt;&lt;s4&gt;]&lt;/s4&gt;&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ivang" changedate="20200506T153600Z" creationid="ivang" creationdate="20200506T153600Z">
+        <seg>&lt;s0&gt;En autobús&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;[&lt;/s2&gt;&lt;a3&gt;editar&lt;/a3&gt;&lt;s4&gt;]&lt;/s4&gt;&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s0&gt;Get around&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;[&lt;/s2&gt;&lt;a3&gt;edit&lt;/a3&gt;&lt;s4&gt;]&lt;/s4&gt;&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="ivang" changedate="20200506T152852Z" creationid="ivang" creationdate="20200506T152751Z">
@@ -14,10 +22,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A reasonably reliable network of public bus services run around the suburbs between bus and train stations.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ivang" changedate="20200506T153757Z" creationid="ivang" creationdate="20200506T153757Z">
+        <seg>Una red pública de servicio de autobuses recorre el área metropolitana entre las estaciones de autobús y de tren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Always plan your journey before you travel.</seg>
       </tuv>
       <tuv lang="ES" changeid="ivang" changedate="20200506T153436Z" creationid="ivang" creationdate="20200506T153436Z">
         <seg>Verifique su trayecto antes de viajar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit section: Bus</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ivang" changedate="20200506T153608Z" creationid="ivang" creationdate="20200506T153556Z">
+        <seg>Editar sección: en autobús</seg>
       </tuv>
     </tu>
     <tu>
@@ -34,6 +58,14 @@
       </tuv>
       <tuv lang="ES" changeid="ivang" changedate="20200506T152727Z" creationid="ivang" creationdate="20200506T152727Z">
         <seg>Editar sección: Cómo desplazarse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fremantle</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ivang" changedate="20200506T153811Z" creationid="ivang" creationdate="20200506T153811Z">
+        <seg>Freemantle</seg>
       </tuv>
     </tu>
     <tu>
@@ -58,6 +90,14 @@
       </tuv>
       <tuv lang="ES" changeid="ivang" changedate="20200506T153404Z" creationid="ivang" creationdate="20200506T153404Z">
         <seg>La frecuencia del transporte público disminuye notablemente los fines de semana y a partir de las 19:00/20:00 entre semana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Transperth also operates a &lt;i0&gt;free CAT bus service&lt;/i0&gt; in Perth CBD, &lt;a1&gt;Fremantle&lt;/a1&gt; and Joondalup.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ivang" changedate="20200506T153854Z" creationid="ivang" creationdate="20200506T153854Z">
+        <seg>Transperth también se encarga delTransperth also operates a &lt;i0&gt;servicio gratuito CAT&lt;/i0&gt; en el distrito financiero de Perth , &lt;a1&gt;Fremantle&lt;/a1&gt; y en Joondalup.</seg>
       </tuv>
     </tu>
     <tu>
