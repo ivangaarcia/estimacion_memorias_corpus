@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Always plan your journey before you travel.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ivang" changedate="20200506T153436Z" creationid="ivang" creationdate="20200506T153436Z">
+        <seg>Verifique su trayecto antes de viajar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Edit section: By public transport</seg>
       </tuv>
       <tuv lang="ES" changeid="ivang" changedate="20200506T152922Z" creationid="ivang" creationdate="20200506T152846Z">
@@ -42,6 +50,22 @@
       </tuv>
       <tuv lang="ES" changeid="ivang" changedate="20200506T153029Z" creationid="ivang" creationdate="20200506T153029Z">
         <seg>El área metropolitana de Perth cuenta con un sistema de transporte público responsable y de bajo precio, operado por Transperth.&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The frequency of public transport decreases remarkably on weekends, and on weekdays in the evenings after 7 or 8pm.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ivang" changedate="20200506T153404Z" creationid="ivang" creationdate="20200506T153404Z">
+        <seg>La frecuencia del transporte público disminuye notablemente los fines de semana y a partir de las 19:00/20:00 entre semana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Travelling to the tourist attractions within Perth, Fremantle, Cottesloe, Scarborough is easy by public transport, but outside of that a car is significantly better.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="ivang" changedate="20200506T153548Z" creationid="ivang" creationdate="20200506T153548Z">
+        <seg>Es mejor coger el transporte público para visitar los lugares de intéres de Perth, Fremantle, Cottesloe, Scarborouh. Fuera de la zona es mucho más recomendable utilizar el coche.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
