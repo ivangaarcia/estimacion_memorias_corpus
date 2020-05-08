@@ -48,8 +48,8 @@
       <tuv lang="EN">
         <seg>&lt;s0&gt;Kangaroos&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;[&lt;/s2&gt;&lt;a3&gt;edit&lt;/a3&gt;&lt;s4&gt;]&lt;/s4&gt;&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="ES" changeid="Marieta" changedate="20200507T075833Z" creationid="Marieta" creationdate="20200507T075833Z">
-        <seg>&lt;s0&gt;Kangaroos&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;[&lt;/s2&gt;&lt;a3&gt;editar&lt;/a3&gt;&lt;s4&gt;]&lt;/s4&gt;&lt;/s1&gt;</seg>
+      <tuv lang="ES" changeid="Marieta" changedate="20200508T111359Z" creationid="Marieta" creationdate="20200507T075833Z">
+        <seg>&lt;s0&gt;Canguros&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;[&lt;/s2&gt;&lt;a3&gt;editar&lt;/a3&gt;&lt;s4&gt;]&lt;/s4&gt;&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -352,8 +352,8 @@
       <tuv lang="EN">
         <seg>There is a designated area in the zoo for kangaroos where they can wander on visitors' paths and the animals are used to people so you can see them very close.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Marieta" changedate="20200507T080034Z" creationid="Marieta" creationdate="20200507T080034Z">
-        <seg>Hay un área designada en el zoo de Kangaroos donde pueden vagar por los caminos de los visitantes y los animales están acostumbrados a la gente, por lo que puedes verlos de muy cerca.</seg>
+      <tuv lang="ES" changeid="Marieta" changedate="20200508T111426Z" creationid="Marieta" creationdate="20200507T080034Z">
+        <seg>Hay un área designada en el zoo de canguros donde pueden vagar por los caminos de los visitantes y los animales están acostumbrados a la gente, por lo que puedes verlos de muy cerca.</seg>
       </tuv>
     </tu>
     <tu>
