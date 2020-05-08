@@ -14,10 +14,50 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s0&gt;Clubs&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;[&lt;/s2&gt;&lt;a3&gt;edit&lt;/a3&gt;&lt;s4&gt;]&lt;/s4&gt;&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="jaume" changedate="20200507T080447Z" creationid="jaume" creationdate="20200507T080447Z">
+        <seg>&lt;s0&gt;Clubes&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;[&lt;/s2&gt;&lt;a3&gt;editar&lt;/a3&gt;&lt;s4&gt;]&lt;/s4&gt;&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;Coffee&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;[&lt;/s2&gt;&lt;a3&gt;edit&lt;/a3&gt;&lt;s4&gt;]&lt;/s4&gt;&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="jaume" changedate="20200507T074432Z" creationid="jaume" creationdate="20200507T074432Z">
+        <seg>&lt;s0&gt;Café&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;[&lt;/s2&gt;&lt;a3&gt;editar&lt;/a3&gt;&lt;s4&gt;]&lt;/s4&gt;&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;Drink&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;[&lt;/s2&gt;&lt;a3&gt;edit&lt;/a3&gt;&lt;s4&gt;]&lt;/s4&gt;&lt;/s1&gt;&lt;s5&gt;&lt;s6&gt;[&lt;/s6&gt;&lt;a7&gt;add listing&lt;/a7&gt;&lt;s8&gt;]&lt;/s8&gt;&lt;/s5&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="jaume" changedate="20200507T074311Z" creationid="jaume" creationdate="20200507T074311Z">
+        <seg>&lt;s0&gt;Qué beber&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;[&lt;/s2&gt;&lt;a3&gt;editar&lt;/a3&gt;&lt;s4&gt;]&lt;/s4&gt;&lt;/s1&gt;&lt;s5&gt;&lt;s6&gt;[&lt;/s6&gt;&lt;a7&gt;añadir lista&lt;/a7&gt;&lt;s8&gt;]&lt;/s8&gt;&lt;/s5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s0&gt;Get around&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;[&lt;/s2&gt;&lt;a3&gt;edit&lt;/a3&gt;&lt;s4&gt;]&lt;/s4&gt;&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="ivang" changedate="20200506T152852Z" creationid="ivang" creationdate="20200506T152751Z">
         <seg>Cómo desplazarse [editar]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;Pubs and bars&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;[&lt;/s2&gt;&lt;a3&gt;edit&lt;/a3&gt;&lt;s4&gt;]&lt;/s4&gt;&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="jaume" changedate="20200507T080231Z" creationid="jaume" creationdate="20200507T080231Z">
+        <seg>&lt;s0&gt;Pubs y bares&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;[&lt;/s2&gt;&lt;a3&gt;editar&lt;/a3&gt;&lt;s4&gt;]&lt;/s4&gt;&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A larger number of of independent cafes serving high quality coffee (of various types and brews) line the trendy streets of suburbs around the city centre.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="jaume" changedate="20200507T075332Z" creationid="jaume" creationdate="20200507T075332Z">
+        <seg>Un mayor número de cafeterías independientes que sirven café de alta calidad (de diversos tipos y formas de elaboración) se encuentran a lo largo de las calles de moda de los suburbios alrededor del centro de la ciudad.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30,10 +70,50 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Almost all clubs in Western Australia have very strict ID policies and scanners, so in most venues it is impossible to enter without appropriate ID (either a passport or an Australian issued Proof of Age card or Driver's License).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="jaume" changedate="20200507T081620Z" creationid="jaume" creationdate="20200507T081620Z">
+        <seg>Casi todos los clubes de Australia Occidental tienen políticas de identificación y escáneo muy estrictas, por lo que en la mayoría de los locales es imposible entrar sin la identificación apropiada (ya sea un pasaporte, una tarjeta que pruebe tu edad o una licencia de conducir emitida en Australia).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Although Perth culture has a high quality taste for coffee and demands very high standards in product, Perth has some of the more expensive coffee prices in the country with a normal sized coffee (e.g. latte) coming close to $4.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="jaume" changedate="20200507T080127Z" creationid="jaume" creationdate="20200507T080127Z">
+        <seg>Aunque la cultura de Perth tiene un gusto especial por el café y exige un nivel muy alto de calidad en el producto, Perth tiene algunos de los precios de café más caros del país, con un café de tamaño normal (por ejemplo, el café con leche) que se acerca a los 4 dólares.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Always plan your journey before you travel.</seg>
       </tuv>
       <tuv lang="ES" changeid="ivang" changedate="20200506T153436Z" creationid="ivang" creationdate="20200506T153436Z">
         <seg>Verifique su trayecto antes de viajar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check out local street press magazines such as Xpress for gig guides and further info for a comprehensive gig guide</seg>
+      </tuv>
+      <tuv lang="ES" changeid="jaume" changedate="20200507T081258Z" creationid="jaume" creationdate="20200507T081258Z">
+        <seg>Echa un vistazo a las revistas locales de prensa callejera como Xpress para ver las guías de conciertos y más información para una guía completa de conciertos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Club nights and both international and local gigs are held at a variety of venues across the city centre, Northbridge, Subiaco and Leederville, with some clubs scattered further out.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="jaume" changedate="20200507T080719Z" creationid="jaume" creationdate="20200507T080719Z">
+        <seg>Las noches de club y tanto los conciertos internacionales como los locales se celebran en una variedad de lugares por el centro de la ciudad, Northbridge, Subiaco y Leederville, con algunos clubes dispersos más allá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Club nights are popular or Wednesdays, Fridays and Saturdays with few venues opening past midnight on other days and none on Sundays (due to licensing laws).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="jaume" changedate="20200507T081116Z" creationid="jaume" creationdate="20200507T080921Z">
+        <seg>Las noches de club son populares los miércoles, viernes y sábados, ya que son pocos los locales que abren después de medianoche durante los otros días y los domingos no abre ninguno (debido a las leyes de licencias)..</seg>
       </tuv>
     </tu>
     <tu>
@@ -50,6 +130,14 @@
       </tuv>
       <tuv lang="ES" changeid="ivang" changedate="20200506T152922Z" creationid="ivang" creationdate="20200506T152846Z">
         <seg>Editar sección: transporte público</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit section: Coffee</seg>
+      </tuv>
+      <tuv lang="ES" changeid="jaume" changedate="20200507T074415Z" creationid="jaume" creationdate="20200507T074415Z">
+        <seg>Editar la sección: café</seg>
       </tuv>
     </tu>
     <tu>
@@ -74,6 +162,22 @@
       </tuv>
       <tuv lang="ES" changeid="ivang" changedate="20200506T153324Z" creationid="ivang" creationdate="20200506T153324Z">
         <seg>La información sobre horarios, tarifas, modificaciones o alternaciones del servicio se encuentra disponible en su página web, en el teléfono 13 62 13 y en el servicio de atención al cliente físico "Transperth InfoCentres", situado en la estación de tren de Perth y en otros puntos estratégicos de la&lt;a1&gt;ciudad&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>One of the most well known place for a espresso is the &lt;i3&gt;Cafe Strip&lt;/i3&gt; in Fremantle closely, however, a higher standard can generally be found in Perth, Mt Lawley, Leederville, South Perth and other inner-city suburbs.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="jaume" changedate="20200507T075840Z" creationid="jaume" creationdate="20200507T075840Z">
+        <seg>Uno d elos lugares más conocidos para tomarse un espresso es el &lt;i3&gt;Cafe Strip&lt;/i3&gt; en pleno Fremantle. Sin embargo, en Perth, Mt Lawley, Leederville, South Perth y otros suburbios del centro de la ciudad se puede encontrar generalmente un nivel más alto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Perth has an a number substandard &lt;b0&gt;Gloria Jeans&lt;/b0&gt;, &lt;b1&gt;Miss Mauds&lt;/b1&gt; and &lt;b2&gt;Dome&lt;/b2&gt; stores mainly in the city centre and suburban shopping areas.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="jaume" changedate="20200507T075034Z" creationid="jaume" creationdate="20200507T075034Z">
+        <seg>Perth tiene tiendas de baja calidad como &lt;b0&gt;Gloria Jeans&lt;/b0&gt;, &lt;b1&gt;Miss Mauds&lt;/b1&gt; y &lt;b2&gt;Dome&lt;/b2&gt; principalmente en el centro de la ciudad y en las zonas comerciales suburbanas.</seg>
       </tuv>
     </tu>
     <tu>
