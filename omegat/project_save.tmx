@@ -46,10 +46,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s0&gt;Kangaroos&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;[&lt;/s2&gt;&lt;a3&gt;edit&lt;/a3&gt;&lt;s4&gt;]&lt;/s4&gt;&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Marieta" changedate="20200507T075833Z" creationid="Marieta" creationdate="20200507T075833Z">
+        <seg>&lt;s0&gt;Kangaroos&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;[&lt;/s2&gt;&lt;a3&gt;editar&lt;/a3&gt;&lt;s4&gt;]&lt;/s4&gt;&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s0&gt;Pubs and bars&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;[&lt;/s2&gt;&lt;a3&gt;edit&lt;/a3&gt;&lt;s4&gt;]&lt;/s4&gt;&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="jaume" changedate="20200507T080231Z" creationid="jaume" creationdate="20200507T080231Z">
         <seg>&lt;s0&gt;Pubs y bares&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;[&lt;/s2&gt;&lt;a3&gt;editar&lt;/a3&gt;&lt;s4&gt;]&lt;/s4&gt;&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;See&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;[&lt;/s2&gt;&lt;a3&gt;edit&lt;/a3&gt;&lt;s4&gt;]&lt;/s4&gt;&lt;/s1&gt;&lt;s5&gt;&lt;s6&gt;[&lt;/s6&gt;&lt;a7&gt;add listing&lt;/a7&gt;&lt;s8&gt;]&lt;/s8&gt;&lt;/s5&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Marieta" changedate="20200507T074649Z" creationid="Marieta" creationdate="20200507T074649Z">
+        <seg>&lt;s0&gt;Qué ver&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;[&lt;/s2&gt;&lt;a3&gt;editar&lt;/a3&gt;&lt;s4&gt;]&lt;/s4&gt;&lt;/s1&gt;&lt;s5&gt;&lt;s6&gt;[&lt;/s6&gt;&lt;a7&gt;añadir lista&lt;/a7&gt;&lt;s8&gt;]&lt;/s8&gt;&lt;/s5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -114,6 +130,14 @@
       </tuv>
       <tuv lang="ES" changeid="Silvia" changedate="20200506T182021Z" creationid="Silvia" creationdate="20200506T182021Z">
         <seg>Un repelente de insectos como "Aerogard" será de ayuda las tardes de verano si estás en el exterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As there is plenty of space for them you may see them not only eating but also hopping.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Marieta" changedate="20200507T080628Z" creationid="Marieta" creationdate="20200507T080628Z">
+        <seg>Como hay mucho espacio para ellos tal vez puedas verlos no solo comiendo sino también saltando.</seg>
       </tuv>
     </tu>
     <tu>
@@ -190,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Hidden among the sprawl of the surrounding and metropolitan area are a few worthwhile attractions usually less than an hour away by car, or a bit longer on public transport.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Marieta" changedate="20200507T075629Z" creationid="Marieta" creationdate="20200507T075629Z">
+        <seg>Escondidos entre la expansión de los alrededores y el área metropolitana hay unas pocas atracciones que merecen la pena que están, normalmente, a menos de una hora en coche o, un poco más, en transporte público.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Information about timetables, fares, disruptions or service alterations can be found on their website, by calling 13 62 13 or at 'Transperth InfoCentres' located in at the Perth train station and a couple of branches in the &lt;a1&gt;City&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="ES" changeid="ivang" changedate="20200506T153324Z" creationid="ivang" creationdate="20200506T153324Z">
@@ -206,6 +238,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Many local golf clubs, Karrinyup Golf Club, Joondalup Golf Club will have Kangaroos dotted along the fairways, and it is very likely to spot them during a game of golf.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Marieta" changedate="20200507T080940Z" creationid="Marieta" creationdate="20200507T080940Z">
+        <seg>Muchos clubs de golf locales,Karrinyup Golf Club, Joondalup Golf Club tendrán canguros salpicando las calles, y es muy probable que los vean durante un partido de golf.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>One of the most well known place for a espresso is the &lt;i3&gt;Cafe Strip&lt;/i3&gt; in Fremantle closely, however, a higher standard can generally be found in Perth, Mt Lawley, Leederville, South Perth and other inner-city suburbs.</seg>
       </tuv>
       <tuv lang="ES" changeid="jaume" changedate="20200507T075840Z" creationid="jaume" creationdate="20200507T075840Z">
@@ -218,6 +258,14 @@
       </tuv>
       <tuv lang="ES" changeid="Silvia" changedate="20200506T193409Z" creationid="Silvia" creationdate="20200506T193409Z">
         <seg>Por lo demás, Perth es relativamente seguro, aunque es mejor no andar solo por la noche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Outside of the metropolitan area are some unspoilt national parks, unpopulated coastline and other interesting locations.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Marieta" changedate="20200507T075822Z" creationid="Marieta" creationdate="20200507T075822Z">
+        <seg>Fuera del área metropolitana hay algunos parques naturales vírgenes, costas despobladas y otras localizaciones interesantes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -302,6 +350,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There is a designated area in the zoo for kangaroos where they can wander on visitors' paths and the animals are used to people so you can see them very close.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Marieta" changedate="20200507T080034Z" creationid="Marieta" creationdate="20200507T080034Z">
+        <seg>Hay un área designada en el zoo de Kangaroos donde pueden vagar por los caminos de los visitantes y los animales están acostumbrados a la gente, por lo que puedes verlos de muy cerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There is plenty to see in the city centre within wandering distance or on a free CAT bus.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Marieta" changedate="20200507T074927Z" creationid="Marieta" creationdate="20200507T074927Z">
+        <seg>Hay mucho que ver en el centro de la ciudad a poca distancia o en un autobús gratis CAT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>They are a great way of getting from one place to another.</seg>
       </tuv>
       <tuv lang="ES" changeid="ivang" changedate="20200506T154132Z" creationid="ivang" creationdate="20200506T154128Z">
@@ -322,6 +386,14 @@
       </tuv>
       <tuv lang="ES" changeid="Silvia" changedate="20200506T194423Z" creationid="Silvia" creationdate="20200506T194423Z">
         <seg>Para contactar con los servicios de emergencia, llamar al &lt;b0&gt;000&lt;/b0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To see semi-wild kangaroos visit the Pinnaroo Valley Memorial Park (a cemetery, but not European style) &lt;a0&gt;[24]&lt;/a0&gt; - it's a walking distance from Whitfords Transperth Train/Metro Station - just cross the highway, the highway exit and look for the entrance on the left.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Marieta" changedate="20200507T080523Z" creationid="Marieta" creationdate="20200507T080523Z">
+        <seg>Para ver canguros semisalvajes visita el Parque Memorial del Valle del Pinnaroo (un cementerio, pero no al estilo europeo)&lt;a0&gt;[24]&lt;/a0&gt; - es una distancia caminando desde la estación de tren/metro de Whitfords - simplemente cruza la autopista, la salida de la autopista y busca la entrada a la izquierda.</seg>
       </tuv>
     </tu>
     <tu>
