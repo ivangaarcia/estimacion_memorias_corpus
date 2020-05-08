@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s0&gt;Stay safe&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;[&lt;/s2&gt;&lt;a3&gt;edit&lt;/a3&gt;&lt;s4&gt;]&lt;/s4&gt;&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Silvia" changedate="20200506T181356Z" creationid="Silvia" creationdate="20200506T181356Z">
+        <seg>&lt;s0&gt;Mantente seguro&lt;/s0&gt;&lt;s1&gt;&lt;s2&gt;[&lt;/s2&gt;&lt;a3&gt;editar&lt;/a3&gt;&lt;s4&gt;]&lt;/s4&gt;&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A larger number of of independent cafes serving high quality coffee (of various types and brews) line the trendy streets of suburbs around the city centre.</seg>
       </tuv>
       <tuv lang="ES" changeid="jaume" changedate="20200507T075332Z" creationid="jaume" creationdate="20200507T075332Z">
@@ -78,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Also be wary of dehydration in the hot weather.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Silvia" changedate="20200506T181856Z" creationid="Silvia" creationdate="20200506T181856Z">
+        <seg>También hay que tener cuidado con la deshidratación en los meses de calor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Although Perth culture has a high quality taste for coffee and demands very high standards in product, Perth has some of the more expensive coffee prices in the country with a normal sized coffee (e.g. latte) coming close to $4.</seg>
       </tuv>
       <tuv lang="ES" changeid="jaume" changedate="20200507T080127Z" creationid="jaume" creationdate="20200507T080127Z">
@@ -90,6 +106,14 @@
       </tuv>
       <tuv lang="ES" changeid="ivang" changedate="20200506T153436Z" creationid="ivang" creationdate="20200506T153436Z">
         <seg>Verifique su trayecto antes de viajar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An insect repellent such as 'Aeroguard' will be useful on summer evenings if you are outdoors.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Silvia" changedate="20200506T182021Z" creationid="Silvia" creationdate="20200506T182021Z">
+        <seg>Un repelente de insectos como "Aerogard" será de ayuda las tardes de verano si estás en el exterior.</seg>
       </tuv>
     </tu>
     <tu>
@@ -150,6 +174,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For general enquiries and for police assistance when the matter is not urgent, ring &lt;b1&gt;131 444&lt;/b1&gt; (international: +61 8 9222 1111).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Silvia" changedate="20200506T194604Z" creationid="Silvia" creationdate="20200506T194604Z">
+        <seg>Para consultas generales y asistencia policial cuando la situación no es urgente, llamar al &lt;b1&gt;131 444&lt;/b1&gt; (internacional: +61 8 9222 1111).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fremantle</seg>
       </tuv>
       <tuv lang="ES" changeid="ivang" changedate="20200506T153811Z" creationid="ivang" creationdate="20200506T153811Z">
@@ -166,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Make sure you cover yourself with SPF 30+ sunscreen and a hat, and preferably a shirt and always keep a bottle of water with you (preferably a litre), especially in the warmer months.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Silvia" changedate="20200506T181752Z" creationid="Silvia" creationdate="20200506T181752Z">
+        <seg>Asegúrate de cubrirte con protección del 30 y un sombrero, y preferiblemente con una camiseta, y ten contigo siempre una botella de agua (preferiblemente de 1 litro), especialmente en los meses más calurosos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>One of the most well known place for a espresso is the &lt;i3&gt;Cafe Strip&lt;/i3&gt; in Fremantle closely, however, a higher standard can generally be found in Perth, Mt Lawley, Leederville, South Perth and other inner-city suburbs.</seg>
       </tuv>
       <tuv lang="ES" changeid="jaume" changedate="20200507T075840Z" creationid="jaume" creationdate="20200507T075840Z">
@@ -174,10 +214,50 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Otherwise, Perth is relatively safe, though its best not to walk alone at night.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Silvia" changedate="20200506T193409Z" creationid="Silvia" creationdate="20200506T193409Z">
+        <seg>Por lo demás, Perth es relativamente seguro, aunque es mejor no andar solo por la noche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Overall Perth is becoming safer, due to small alleyways and other niche problem zones being refurbished and unsuitable for loiterers.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Silvia" changedate="20200506T194328Z" creationid="Silvia" creationdate="20200506T194328Z">
+        <seg>En general, Perths se eestá haciendo más segura, debido a que los callejones y otras zonas problemáticas de bares se están renovando y no son adecuadas para los merodeadores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Perth citizens (as with most Australians) almost never carry firearms or other weaponry, therefore it is logical to avoid people and places whenever such things are observed and advise the local police service when safe to do so.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Silvia" changedate="20200506T193922Z" creationid="Silvia" creationdate="20200506T193922Z">
+        <seg>Los ciudadanos de Perth (como la mayoría de australianos) casi nunca llevan armas de fuego o cualquier otro armamento, por lo tanto, lo lógico es evitar la gente y los lugares cuando esto se observa y avisar a la policía cuando sea seguro hacerlo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Perth has an a number substandard &lt;b0&gt;Gloria Jeans&lt;/b0&gt;, &lt;b1&gt;Miss Mauds&lt;/b1&gt; and &lt;b2&gt;Dome&lt;/b2&gt; stores mainly in the city centre and suburban shopping areas.</seg>
       </tuv>
       <tuv lang="ES" changeid="jaume" changedate="20200507T075034Z" creationid="jaume" creationdate="20200507T075034Z">
         <seg>Perth tiene tiendas de baja calidad como &lt;b0&gt;Gloria Jeans&lt;/b0&gt;, &lt;b1&gt;Miss Mauds&lt;/b1&gt; y &lt;b2&gt;Dome&lt;/b2&gt; principalmente en el centro de la ciudad y en las zonas comerciales suburbanas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Police are generally friendly and approachable.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Silvia" changedate="20200506T194357Z" creationid="Silvia" creationdate="20200506T194357Z">
+        <seg>Por lo general la policía es amable y cercana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some areas such as Northbridge are also known to be 'trouble spots' on weekend nights and tourist should be careful.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Silvia" changedate="20200506T193631Z" creationid="Silvia" creationdate="20200506T193631Z">
+        <seg>Algunas zonas como Northbridge se conocen también por ser "lugares conflictivos" los fines de semana por la noche y los turistas deben llevar cuidado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -214,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The main dangers that an overseas visitor to Perth faces are &lt;b0&gt;sunburn&lt;/b0&gt; and dehydration.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Silvia" changedate="20200506T181541Z" creationid="Silvia" creationdate="20200506T181541Z">
+        <seg>Los principales peligros a los que se expone un visitante extranjero son &lt;b0&gt;las quemaduras por el sol&lt;/b0&gt; y la deshidratación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>They are a great way of getting from one place to another.</seg>
       </tuv>
       <tuv lang="ES" changeid="ivang" changedate="20200506T154132Z" creationid="ivang" creationdate="20200506T154128Z">
@@ -226,6 +314,14 @@
       </tuv>
       <tuv lang="ES" changeid="ivang" changedate="20200506T154242Z" creationid="ivang" creationdate="20200506T153920Z">
         <seg>No se necesita un SmartRider, solo tienes que subirte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To contact the emergency services, call &lt;b0&gt;000&lt;/b0&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Silvia" changedate="20200506T194423Z" creationid="Silvia" creationdate="20200506T194423Z">
+        <seg>Para contactar con los servicios de emergencia, llamar al &lt;b0&gt;000&lt;/b0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
